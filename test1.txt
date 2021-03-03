@@ -28,3 +28,4 @@ sunday.
 monday.
 tuesday.
 wedneday.
+Thursdsay.
