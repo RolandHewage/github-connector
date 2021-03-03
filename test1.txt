@@ -29,3 +29,4 @@ monday.
 tuesday.
 wedneday.
 Thursdsay.
+friday.
