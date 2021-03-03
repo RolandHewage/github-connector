@@ -31,3 +31,4 @@ wedneday.
 Thursdsay.
 friday.
 saturday.
+sunday.
