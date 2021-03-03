@@ -18,3 +18,4 @@ thursday.
 friday.
 saturday.
 sunday.
+monday.
