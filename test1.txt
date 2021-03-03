@@ -14,3 +14,4 @@ when.
 monday.
 tuesday.
 wedneday.
+thursday.
