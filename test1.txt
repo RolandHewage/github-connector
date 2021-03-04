@@ -40,3 +40,4 @@ friday.
 saturday.
 sunday.
 monday.
+tuesday.
