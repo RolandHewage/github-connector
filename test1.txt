@@ -48,3 +48,4 @@ saturday.
 sunday.
 monday.
 tuesday.
+wedneday.
