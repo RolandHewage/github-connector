@@ -50,3 +50,4 @@ monday.
 tuesday.
 wedneday.
 thursday.
+friday.
