@@ -52,3 +52,4 @@ wedneday.
 thursday.
 friday.
 saturday.
+sunday.
