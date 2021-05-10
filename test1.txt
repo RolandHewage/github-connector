@@ -67,3 +67,4 @@ thursday.
 friday.
 monday.
 tuesday.
+wedneday.
