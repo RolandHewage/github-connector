@@ -65,3 +65,4 @@ tuesday.
 wedneday.
 thursday.
 friday.
+monday.
